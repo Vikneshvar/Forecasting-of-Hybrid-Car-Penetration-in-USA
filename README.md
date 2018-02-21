@@ -8,6 +8,7 @@ terms of the percentage of the target market that adopted the product. Thus the 
 market potential can at most be equal to 100).
 
 The major characteristics of current hybrid car owners are:
+
 ● High level of education.
 ● Higher income than the average new buyer—approximately $100,000 a year versus
 $85,000 a year for the average buyer.
@@ -61,8 +62,10 @@ Price and Advertising Data
 
 Advertising
 ● Total for 10 years
+
 ● Initially, for 4 years advertising can increase by $0.15, and stable for 4 years, then
 increase again for 3 years by $0.20
 
 Pricing
+
 ● Decrease by 5% every year for first 5 years, then decrease by 10% for remaining 5 years
