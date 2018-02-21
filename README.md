@@ -1,6 +1,6 @@
 # Forecasting-of-Hybrid-Car-Penetration-in-USA
 
-Question: Develop forecasts of hybrid car penetration in the U.S. market from 2007 through
+Forecasts of hybrid car penetration in the U.S. market from 2007 through
 2016 for each scenario you develop, along with a justification and explanation for your
 forecasts. (In applying the Bass model, note that market penetration data for the four analog
 products mentioned in the case, namely, ABS, EFI, Solar, and Diesel cars, were all reckoned in
