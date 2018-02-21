@@ -7,6 +7,8 @@ products mentioned in the case, namely, ABS, EFI, Solar, and Diesel cars, were a
 terms of the percentage of the target market that adopted the product. Thus the maximum
 market potential can at most be equal to 100).
 
+=> Problem statements and Solutions are available in the Bass_Forecasted_Market_potential.pdf file
+
 The major characteristics of current hybrid car owners are:
 
 ● High level of education.
