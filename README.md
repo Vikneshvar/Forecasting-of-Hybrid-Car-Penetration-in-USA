@@ -62,10 +62,8 @@ Price and Advertising Data
 
 Advertising
 ● Total for 10 years
-
 ● Initially, for 4 years advertising can increase by $0.15, and stable for 4 years, then
 increase again for 3 years by $0.20
 
 Pricing
-
 ● Decrease by 5% every year for first 5 years, then decrease by 10% for remaining 5 years
